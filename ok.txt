@@ -1,0 +1,3 @@
+rno   name    mobile
+cse2  ramu    5432107890
+cse3  lakshmi 4891234567
